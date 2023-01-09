@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jatin Agrahari</h1>
-<h3 align="center">A passionate Full stack Java script Developer from India</h3>
+<h3 align="center">A passionate Full stack Java script Developer from India</h3>s
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatin2311&label=Profile%20views&color=0e75b6&style=flat" alt="jatin2311" /> </p>
